@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods><li>Combat Extended</li></mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/Sandy_Detailed_RPG_Inventory.ItemSlotDef[defName="ItemSlotShouldersCEWebbing"]/label</xpath>
+					<value>
+						<label>Arnés de equipo</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/Sandy_Detailed_RPG_Inventory.ItemSlotDef[defName="ItemSlotShouldersCEBackpack"]/label</xpath>
+					<value>
+						<label>Mochila</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/Sandy_Detailed_RPG_Inventory.ItemSlotDef[defName="ItemSlotCEStrappedHead"]/label</xpath>
+					<value>
+						<label>Equipo de cabeza</label>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <SandyMassCarried>Masa transportada</SandyMassCarried>
+  <SandyMassValue>{0} / {1} kg</SandyMassValue>
+  <Sandy_ViewList>Mostrar lista</Sandy_ViewList>
+  <RPG_Inventory_Width>Pestaña de equipo - Ancho</RPG_Inventory_Width>
+  <RPG_Inventory_Height>Pestaña de equipo - Alto</RPG_Inventory_Height>
+  <RPG_Style_Inventory_Title>Inventario Estilo RPG</RPG_Style_Inventory_Title>
+  <RPG_Style_Inventory_ArmorHarmony>Defensa Mágica</RPG_Style_Inventory_ArmorHarmony>
+  <RPG_Display_All_Slots_Label>Mostrar TODOS los espacios</RPG_Display_All_Slots_Label>
+  <RPG_Display_All_Slots_Note>Muestra todos los espacios compatibles incluso si es imposible usarlos</RPG_Display_All_Slots_Note> 
+  <Primary_Weapon>Arma principal</Primary_Weapon>
+  <Secondary_Weapon>Arma secundaria (Mano libre)</Secondary_Weapon>
+  <RPG_AutoFitWidth_Button_Label>Ajuste de ancho (Cercano)</RPG_AutoFitWidth_Button_Label>
+  <RPG_AutoFitWidth_Tight_Button_Label>Ajuste de ancho (Estrecho)</RPG_AutoFitWidth_Tight_Button_Label>
+  <RPG_AutoFitWidth_Wide_Button_Label>Ajuste de ancho (Ancho)</RPG_AutoFitWidth_Wide_Button_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Label>Mostrar temperaturas cómodas en la misma línea</RPG_Dispaly_Temp_On_The_Same_Line_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Note></RPG_Dispaly_Temp_On_The_Same_Line_Note>
+  <Sandy_SimplifiedView>Simple</Sandy_SimplifiedView>
+  <RPG_Display_Apparel_Healthbar_Label>Mostrar barra de vida del equipo</RPG_Display_Apparel_Healthbar_Label>
+  <RPG_Display_Apparel_Healthbar_Note>En lugar del fondo de salud</RPG_Display_Apparel_Healthbar_Note>
+  <RPG_Colors_Changing>Cambiando {0}</RPG_Colors_Changing>
+  <RPG_Colors_Apply>Aplicar</RPG_Colors_Apply>
+  <RPG_Colors_Red>Rojo: </RPG_Colors_Red>
+  <RPG_Colors_Green>Verde: </RPG_Colors_Green>
+  <RPG_Colors_Blue>Azul: </RPG_Colors_Blue>
+  <RPG_Colors_Preview>Previsualización: </RPG_Colors_Preview>
+  <RPG_Colors_Button_Label>Cambiar</RPG_Colors_Button_Label>
+  <RPG_Color_Codes_Label>Usar códigos de color</RPG_Color_Codes_Label>
+  <RPG_Color_Codes_Note></RPG_Color_Codes_Note>
+  <RPG_Display_Background_Label>Mostrar fondo de los espacios</RPG_Display_Background_Label>
+  <RPG_Display_Background_Note></RPG_Display_Background_Note>
+  <RPG_Display_Static_Slot_Background_Label>Mostrar fondo predeterminado de los espacios</RPG_Display_Static_Slot_Background_Label>
+  <RPG_Display_Static_Slot_Background_Note></RPG_Display_Static_Slot_Background_Note>
+  <RPG_Frame2_Label>Usar bordes gruesos</RPG_Frame2_Label>
+  <RPG_Frame2_Note></RPG_Frame2_Note>
+</LanguageData>
