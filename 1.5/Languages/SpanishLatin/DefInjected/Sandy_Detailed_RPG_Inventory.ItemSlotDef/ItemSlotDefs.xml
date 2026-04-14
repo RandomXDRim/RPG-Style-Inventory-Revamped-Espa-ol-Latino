@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ItemSlotShield.label>Escudo</ItemSlotShield.label>
+  <ItemSlotTorsoOnSkin.label>Torso (Piel)</ItemSlotTorsoOnSkin.label>
+  <ItemSlotTorsoShell.label>Torso (Exterior)</ItemSlotTorsoShell.label>
+  <ItemSlotTorsoBelt.label>Torso (Cinturón)</ItemSlotTorsoBelt.label>
+  <ItemSlotTorsoUnderwearTop.label>Torso (Interior)</ItemSlotTorsoUnderwearTop.label>
+  <ItemSlotTorsoMiddle.label>Torso (Capa media)</ItemSlotTorsoMiddle.label>
+  
+  <ItemSlotHead.label>Cabeza</ItemSlotHead.label>
+  <ItemSlotHeadEyes.label>Cabeza (Ojos)</ItemSlotHeadEyes.label>
+  <ItemSlotEyeCover.label>Ojos</ItemSlotEyeCover.label>
+  <ItemSlotHeadTeeth.label>Dientes</ItemSlotHeadTeeth.label>
+  <ItemSlotEarsAccessories.label>Orejas (Accesorios)</ItemSlotEarsAccessories.label>
+  
+  <ItemSlotNeckShell.label>Cuello (Exterior)</ItemSlotNeckShell.label>
+  <ItemSlotNeckAccessories.label>Cuello (Accesorio)</ItemSlotNeckAccessories.label>
+  <ItemSlotNeckOverhead.label>Cuello (Superior)</ItemSlotNeckOverhead.label>
+  
+  <ItemSlotWaistShell.label>Cintura (Exterior)</ItemSlotWaistShell.label>
+  <ItemSlotWaistBelt.label>Cinturón</ItemSlotWaistBelt.label>
+  <ItemSlotWaistUnderwear.label>Cintura (Interior)</ItemSlotWaistUnderwear.label>
+  
+  <ItemSlotLegsSkin.label>Piernas (Piel)</ItemSlotLegsSkin.label>
+  <ItemSlotLegsShell.label>Piernas (Exterior)</ItemSlotLegsShell.label>
+  <ItemSlotLegsMiddle.label>Piernas (Capa media)</ItemSlotLegsMiddle.label>
+  <ItemSlotLegsUnderwear.label>Piernas (Interior)</ItemSlotLegsUnderwear.label>
+  
+  <ItemSlotFeetOnSkin.label>Pies (Piel)</ItemSlotFeetOnSkin.label>
+  <ItemSlotFeetShell.label>Pies (Exterior)</ItemSlotFeetShell.label>
+  <ItemSlotFeetMiddle.label>Pies (Capa media)</ItemSlotFeetMiddle.label>
+  
+  <ItemSlotHandsOnSkin.label>Manos (piel)</ItemSlotHandsOnSkin.label>
+  <ItemSlotHandsShell.label>Manos (exterior)</ItemSlotHandsShell.label>
+  <ItemSlotHandsMiddle.label>Manos (Capa media)</ItemSlotHandsMiddle.label>
+  <ItemSlotRightHandAccessories.label>Manos derecha (Accesorios)</ItemSlotRightHandAccessories.label>
+  <ItemSlotRightHandShell.label>Manos derecha (Exterior)</ItemSlotRightHandShell.label>
+  <ItemSlotLeftHandAccessories.label>Manos izquierda (Accesorios)</ItemSlotLeftHandAccessories.label>
+  <ItemSlotLeftHandShell.label>Manos izquierda (Exterior)</ItemSlotLeftHandShell.label>
+  
+  <ItemSlotShouldersShell.label>Hombros</ItemSlotShouldersShell.label>
+  
+  <ItemSlotJaw.label>Mandíbula</ItemSlotJaw.label>
+
+</LanguageData>
